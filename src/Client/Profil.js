@@ -108,6 +108,7 @@ class Profil extends Component {
 
     componentDidMount = () => {
       this.getProfil();
+      // alert('page profil');
     }
 
     Save = (event) => {
