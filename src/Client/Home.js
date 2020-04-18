@@ -15,6 +15,7 @@ class Home extends Component {
     render(){
       return(
       <div>
+        halo
         {/* <div className="overlay-gradient" style={{ textAlign:"center"}}>
           <img src={bg1} className="img-fluid" alt="Responsive image" />
           <h2 style={{fontWeight:"700", fontSize:"40px", marginTop:"-330px", color:"white"}} >RentField</h2>
