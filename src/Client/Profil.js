@@ -31,9 +31,9 @@ class Profil extends Component {
     }
 
     // // jika tidak terdapat data token pada local storage
-    if(!localStorage.getItem("Token")){
+//     if(!localStorage.getItem("Token")){
       // direct ke halaman login
-      window.location = "/login";
+//       window.location = "/login";
     }
   }
 
