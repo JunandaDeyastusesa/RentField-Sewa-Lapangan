@@ -4,7 +4,6 @@ import bg1 from '../image/bg1.jpg';
 import bg2 from '../image/bg2.jpg';
 import bg3 from '../image/bg3.jpg';
 import h1 from '../image/lap.jfif';
-import Slide2 from '../image/Slide2.jpg';
 import axios from "axios";
 import $ from "jquery";
 import Modal from "../component/Modal";
